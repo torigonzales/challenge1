@@ -19,10 +19,6 @@ The first challenge in a series of challenges throuout the Boot Camp.
 
 ---
 
-## How-To-Use
-<>
-
----
 
 ## Introduction 
 In this challenge we debugged the "Horiseon" web page. There was a lot of organization that needed to happen! There were challenges, but overall this was a very eye-opening and fun challenge to kick off the Boot Camp! 
