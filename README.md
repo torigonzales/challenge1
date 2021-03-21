@@ -49,7 +49,7 @@ Here is the final look of the page after debugging!
 ## Resources
 <a href="https://github.com/torigonzales/challenge1">GitHub Repo</a>
 
-<a href="file:///Users/victoriagonzales/challenge1/index.html#online-reputation-management"> Horiseon</a>
+<a href="https://torigonzales.github.io/challenge1/"> Horiseon</a>
 
 <a href="https://www.youtube.com/watch?v=eVGEea7adDM"> YouTube</a>
 
