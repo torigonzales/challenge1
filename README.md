@@ -6,6 +6,7 @@
 
 - [Description](#description)
 - [Introduction](#introduction)
+- [Challenges](#challenges)
 - [References](#references)
 - [Author-Info](#author-info)
 
@@ -22,4 +23,9 @@ In this challenge we debugged the "Horiseon" web page. There was a lot of organi
 
 
 ---
+
+## Challenges 
+I found that there was a lot of organization that needed to happen within the starter code. There were a lot of unnecessary and repeat syntax. Here a good example what it should look like:
+<img src="./images/screenshot1.png" /> 
+<img src="./images/screenshot2.png" />
 
